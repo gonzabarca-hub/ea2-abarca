@@ -8,6 +8,3 @@
 Para ejecutar este proyecto, no se requieren llaves reales para la PokeAPI, pero para fines de arquitectura, se puede configurar la siguiente variable de entorno:
 * Linux/Mac: `export API_KEY_PROYECTO="tu_clave_dummy"`
 * Windows (PowerShell): `$env:API_KEY_PROYECTO="tu_clave_dummy"`
-
-## Instrucciones de Ejecución (Docker)
-(Se completará en la siguiente fase de infraestructura)
